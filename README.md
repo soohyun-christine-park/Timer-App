@@ -1,6 +1,9 @@
 ## Timer-App
 Kitchen + Task Timer App   
 
+[MFA Design and Technology / Creative Coding-iOS]
+Minimal design with bright color choices: I aimed to design playful user experience with elegant simple UI.
+
 # Screen Shot
 #### 1. Kitchen Timer Screen
 
