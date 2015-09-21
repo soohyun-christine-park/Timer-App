@@ -4,12 +4,15 @@ Kitchen + Task Timer App
 # Screen Shot
 #### 1. Kitchen Timer Screen
 
-![ScreenShot]()
+![ScreenShot](https://github.com/soohyun-christine-park/Timer-App/blob/master/Timer-App-01.png)
+![ScreenShot](https://github.com/soohyun-christine-park/Timer-App/blob/master/Timer-App-02.png)
+![ScreenShot](https://github.com/soohyun-christine-park/Timer-App/blob/master/Timer-App-03.png)
 
 #### 2. Task Timer Screens
-![ScreenShot]()
-
-![ScreenShot]()
+![ScreenShot](https://github.com/soohyun-christine-park/Timer-App/blob/master/Timer-App-04.png)
+![ScreenShot](https://github.com/soohyun-christine-park/Timer-App/blob/master/Timer-App-05.png)
+![ScreenShot](https://github.com/soohyun-christine-park/Timer-App/blob/master/Timer-App-06.png)
+![ScreenShot](https://github.com/soohyun-christine-park/Timer-App/blob/master/Timer-App-07.png)
 
 
 # Code Runs On:
